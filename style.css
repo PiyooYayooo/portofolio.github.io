@@ -1,0 +1,25 @@
+
+.jumbotron{
+    padding-top: 3rem;
+    background-color: #e2edff
+}
+
+#Projects {
+    background-color: #e2edff
+}
+#button{
+    background-color: #34495e;
+    width: 100%;
+    padding: 5px 0 10px;
+}
+#button a{
+    text-decoration: none;
+    color: #ecf0f1;
+    background-color:black;
+    width: 100px;
+    padding: 5px 10px;
+    margin: 5px;
+}
+section{
+    padding-top: 5rem;
+}
